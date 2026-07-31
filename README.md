@@ -1,6 +1,4 @@
-I have created a comprehensive **`README.md`** documentation file for the repository and presented it in your viewer.
 
-### 🌟 What's Included in the Markdown File (`README.md`):
 1. **Project Overview & Objectives**:
    - Clear description of the **AI-Powered English Learning & Pronunciation Evaluation Platform** context.
    - Highlights the core AI features: intelligent vocabulary suggestion (`autoselect`, `customselect`, `rangeselect`, `timeselect`), pronunciation evaluation (`pronounciationCheck()`), automated story/mnemonic generation, text analysis, adaptive practice sessions, and skill analytics.
